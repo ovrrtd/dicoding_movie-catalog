@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">DicodingSubmissionTwo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Tv Shows</string>
+    <string name="tab_text_3">Setting</string>
+    <string name="content_tab_home">Welcome Home</string>
+    <string name="content_tab_profile">Change your Profile here</string>
+    <string name="content_tab_text">This is Tab</string>
+    <string name="add_favorite">Favorite</string>
+    <string name="rating">Rating :</string>
+    <string name="name_movies">Movie Name</string>
+    <string name="desc">Description</string>
+    <string name="release">Release</string>
+    <string name="change_language_settings">Change language</string>
+    <string name="bottom_home">Home</string>
+    <string name="bottom_fav">Favorite</string>
+    <string name="appwidget_text">Catalog Widget</string>
+    <string name="empty_text">NO DATA</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="release_reminder">Release Reminder</string>
+    <string name="release_description">Click to see today release</string>
+    <string name="daily_description">Click to see more </string>
+    <string name="bottom_search">Search</string>
+    <string name="bottom_tv">TV Shows</string>
+    <string name="bottom_movie">Movies</string>
+    <string name="notif">Notification</string>
+    <string name="release_reminder_message">is released</string>
+    <string-array name="data_name">
+        <item>A Star Is Born</item>
+        <item>Aquaman</item>
+        <item>Avengers Infinty</item>
+        <item>Birdbox</item>
+        <item>Bohemian Rhapsody</item>
+        <item>BumbleBee</item>
+        <item>Spiderman</item>
+        <item>Deadpool</item>
+        <item>How to Train Your Dragon</item>
+        <item>Venom</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Allys career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orms half-human, half-Atlantean brother and true heir to the throne.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>In the wake of an unknown global terror, a mother must find the strength to flee with her children down a treacherous river in search of safety. Due to unseen deadly forces, the perilous journey must be made blindly. Directed by Emmy winner Susanne Bier, Bird Box is a thriller starring Academy Award winner Sandra Bullock, John Malkovich, Sarah Paulson, and Trevante Rhodes.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock n roll band Queen in 1970. Hit songs become instant classics. When Mercury s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.</item>
+        <item>Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson "Kingpin" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.</item>
+        <item>Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boys life.</item>
+        <item>The fantastical world of Hiccup and Toothless five years later. While Astrid, Snotlout and the rest of the gang are challenging each other to dragon races (the islands new favorite contact sport), the now inseparable pair journey through the skies, charting unmapped territories and exploring new worlds. When one of their adventures leads to the discovery of a secret ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace.</item>
+        <item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.</item>
+    </string-array>
+
+    <string-array name="data_release">
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+    </string-array>
+
+    <string-array name="data_overview">
+        <item>7.5</item>
+        <item>6.8</item>
+        <item>8.3</item>
+        <item>6.6</item>
+        <item>8.0</item>
+        <item>6.5</item>
+        <item>8.4</item>
+        <item>7.5</item>
+        <item>7.7</item>
+        <item>6.6</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_venom</item>
+    </array>
+
+    <string-array name="datatv_name">
+        <item>Arrow</item>
+        <item>Doom Patrol</item>
+        <item>Dragon Ball</item>
+        <item>Fairytail</item>
+        <item>Family Guy</item>
+        <item>Flash</item>
+        <item>God</item>
+        <item>Gotham</item>
+        <item>Grey Anatomi</item>
+        <item>Venom</item>
+    </string-array>
+
+    <string-array name="datatv_description">
+        <item>In a place where young witches, vampires, and werewolves are nurtured to be their best selves in spite of their worst impulses, Klaus Mikaelson’s daughter, 17-year-old Hope Mikaelson, Alaric Saltzman’s twins, Lizzie and Josie Saltzman, among others, come of age into heroes and villains at The Salvatore School for the Young and Gifted.</item>
+        <item>Jefferson Pierce is a man wrestling with a secret. As the father of two daughters and principal of a charter high school that also serves as a safe haven for young people in a New Orleans neighborhood overrun by gang violence, he is a hero to his community.</item>
+        <item>A tough, brilliant senior resident guides an idealistic young doctor through his first day, pulling back the curtain on what really happens, both good and bad, in modern-day medicine.</item>
+        <item>A team of young superheroes led by Nightwing (formerly Batmans first Robin) form to combat evil and other perils.</item>
+        <item>A security consultant hunts for a ruthless assassin. Equally obsessed with each other, they go head to head in an epic game of cat-and-mouse.</item>
+        <item>After crash-landing on an alien planet, the Robinson family fights against all odds to survive and escape. But theyre surrounded by hidden dangers.</item>
+        <item>Based on the stories of Stephen King, the series intertwines characters and themes from the fictional town of Castle Rock.</item>
+        <item>An astronaut named Gary and his planet-destroying sidekick Mooncake embark on serialized journeys through space in order to unlock the mystery of “Final Space,” the last point in the universe, if it actually does exist.</item>
+        <item>The elite unit of the New York office of the FBI brings to bear all their talents, intellect and technical expertise on major cases in order to keep New York and the country safe.</item>
+        <item>Explore the high-pressure experiences of police officers, paramedics and firefighters who are thrust into the most frightening, shocking and heart-stopping situations. These emergency responders must try to balance saving those who are at their most vulnerable with solving the problems in their own lives.</item>
+    </string-array>
+
+    <string-array name="datatv_release">
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+    </string-array>
+
+    <string-array name="datatv_overview">
+        <item>7.5</item>
+        <item>6.8</item>
+        <item>8.3</item>
+        <item>6.6</item>
+        <item>8.0</item>
+        <item>6.5</item>
+        <item>8.4</item>
+        <item>7.5</item>
+        <item>7.7</item>
+        <item>6.6</item>
+    </string-array>
+
+    <array name="datatv_photo">
+        <item>@drawable/tvposter_arrow</item>
+        <item>@drawable/tvposter_doom_patrol</item>
+        <item>@drawable/tvposter_dragon_ball</item>
+        <item>@drawable/tvposter_fairytail</item>
+        <item>@drawable/tvposter_family_guy</item>
+        <item>@drawable/tvposter_flash</item>
+        <item>@drawable/tvposter_god</item>
+        <item>@drawable/tvposter_gotham</item>
+        <item>@drawable/tvposter_grey_anatomy</item>
+        <item>@drawable/tvposter_hanna</item>
+    </array>
+
+
+</resources>

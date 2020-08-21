@@ -1,0 +1,2 @@
+include ':app', ':favoriteapplication', ':cova'
+rootProject.name='movie-catalog'

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DicodingSubmissionDua</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Halo Fragment Kosong</string>
+    <string name="tab_text_1">Beranda</string>
+    <string name="tab_text_2">Acara Tv</string>
+    <string name="tab_text_3">Pengaturan</string>
+    <string name="content_tab_home">Selamat Datang Di Beranda</string>
+    <string name="content_tab_profile">Ubah Profilmu disini</string>
+    <string name="content_tab_text">Ini Tab</string>
+    <string name="add_favorite">Favorit</string>
+    <string name="rating" >Penilaian :</string>
+    <string name="name_movies">Nama Film</string>
+    <string name="desc">Deskripsi</string>
+    <string name="release">Rilis</string>
+    <string name="change_language_settings">Ganti Bahasa</string>
+    <string name="bottom_home">Beranda</string>
+    <string name="bottom_fav">Favorit</string>
+    <string name="appwidget_text">Catalog Movie</string>
+    <string name="empty_text">TIDAK ADA DATA</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="release_reminder">Pengingat Rilis</string>
+    <string name="release_description">Ketuk untuk melihat rilis hari ini</string>
+    <string name="daily_description">Ketuk untuk melihat lebih </string>
+    <string name="bottom_search">Pencarian</string>
+    <string name="bottom_tv">Acara TV</string>
+    <string name="bottom_movie">Film</string>
+    <string name="notif">Notifikasi</string>
+    <string name="release_reminder_message">telah rilis</string>
+    <string-array name="data_name">
+        <item>A Star Is Born</item>
+        <item>Aquaman</item>
+        <item>Avengers Infinty</item>
+        <item>Birdbox</item>
+        <item>Bohemian Rhapsody</item>
+        <item>BumbleBee</item>
+        <item>Spiderman</item>
+        <item>Deadpool</item>
+        <item>How to Train Your Dragon</item>
+        <item>Venom</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item> Musisi kawakan Jackson Maine menemukan - dan jatuh cinta dengan - artis yang sedang berjuang Ally. Dia baru saja menyerah pada mimpinya untuk menjadi besar sebagai penyanyi - sampai Jack membujuknya menjadi sorotan. Tetapi bahkan ketika karier Allys lepas landas, sisi pribadi dari hubungan mereka hancur, karena Jack berjuang terus-menerus dengan iblis internalnya sendiri. </item>
+        <item> Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan dunia. Yang menghalangi jalannya adalah Arthur Curry, lelaki setengah manusia Orms, setengah lelaki Atlantis dan pewaris sejati takhta. </item>
+        <item> Ketika Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan yang tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala sesuatu yang Avengers telah perjuangkan telah mengarah ke saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih tidak pasti. </item>
+        <item> Di tengah teror global yang tidak diketahui, seorang ibu harus menemukan kekuatan untuk melarikan diri bersama anak-anaknya menyusuri sungai berbahaya untuk mencari keselamatan. Karena kekuatan mematikan yang tak terlihat, perjalanan berbahaya harus dilakukan secara membabi buta. Disutradarai oleh pemenang Emmy Susanne Bier, Bird Box adalah film thriller yang dibintangi oleh pemenang Academy Award Sandra Bullock, John Malkovich, Sarah Paulson, dan Trevante Rhodes. </item>
+        <item> Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris John Deacon mengambil dunia musik dengan badai ketika mereka membentuk band rock n roll Queen pada tahun 1970. Lagu-lagu hit menjadi klasik instan. Ketika gaya hidup Mercury yang semakin liar mulai lepas kendali, Queen segera menghadapi tantangan terbesarnya - menemukan cara untuk menjaga band tetap bersama di tengah kesuksesan dan kelebihan. </item>
+        <item> Dalam pelarian pada tahun 1987, Bumblebee menemukan perlindungan di tempat barang rongsokan di kota pantai kecil California. Charlie, di puncak usia 18 dan berusaha menemukan tempatnya di dunia, menemukan Bumblebee, bekas luka pertempuran dan patah. Ketika Charlie membangkitkannya, dia dengan cepat mengetahui bahwa ini bukan bug VW kuning biasa. </item>
+        <item> Miles Morales menyulap hidupnya antara menjadi siswa sekolah menengah dan menjadi manusia laba-laba. Saat Wilson "Kingpin" Fisk menggunakan collider super, yang lain dari seluruh Spider-Verse diangkut ke dimensi ini. </item>
+        <item> Deadpool tentara bayaran Wisecracking bertarung melawan Cable jahat dan kuat dan orang jahat lainnya untuk menyelamatkan kehidupan anak laki-laki. </item>
+        <item> Dunia Hiccup dan Toothless yang fantastik lima tahun kemudian. Sementara Astrid, Snotlout, dan anggota geng lainnya saling menantang satu sama lain dalam perlombaan naga (olahraga kontak favorit baru di kepulauan ini), pasangan yang kini tak terpisahkan melakukan perjalanan melintasi langit, memetakan wilayah yang belum dipetakan, dan menjelajahi dunia baru. Ketika salah satu petualangan mereka mengarah pada penemuan gua es rahasia yang menjadi rumah bagi ratusan naga liar baru dan Penunggang Naga misterius, kedua teman menemukan diri mereka di tengah pertempuran untuk melindungi perdamaian. </item>
+        <item> Wartawan investigasi Eddie Brock mencoba kembali setelah skandal, tetapi secara tidak sengaja menjadi tuan rumah Venom, seorang simbiot alien yang sangat kuat dan sakti. Segera, ia harus mengandalkan kekuatan barunya untuk melindungi dunia dari organisasi bayangan yang mencari simbiosis mereka sendiri. </item>
+    </string-array>
+
+    <string-array name="data_release">
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+    </string-array>
+
+    <string-array name="data_overview">
+        <item>7.5</item>
+        <item>6.8</item>
+        <item>8.3</item>
+        <item>6.6</item>
+        <item>8.0</item>
+        <item>6.5</item>
+        <item>8.4</item>
+        <item>7.5</item>
+        <item>7.7</item>
+        <item>6.6</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_venom</item>
+    </array>
+
+    <string-array name="datatv_name">
+        <item>Arrow</item>
+        <item>Doom Patrol</item>
+        <item>Dragon Ball</item>
+        <item>Fairytail</item>
+        <item>Family Guy</item>
+        <item>Flash</item>
+        <item>God</item>
+        <item>Gotham</item>
+        <item>Grey Anatomi</item>
+        <item>Venom</item>
+    </string-array>
+
+    <string-array name="datatv_description">
+        <item> Di tempat penyihir muda, vampir, dan manusia serigala diasuh untuk menjadi diri terbaik mereka terlepas dari impuls terburuk mereka, putri Klaus Mikaelson, Hope Mikaelson, 17 tahun, kembar Alaric Saltzman, Lizzie dan Josie Saltzman, di antaranya yang lain, tumbuh menjadi pahlawan dan penjahat di The Salvatore School for the Young and Gifted. </item>
+        <item> Jefferson Pierce adalah seorang pria yang bergulat dengan rahasia. Sebagai ayah dari dua putri dan kepala sekolah dari sebuah sekolah menengah charter yang juga berfungsi sebagai tempat yang aman bagi kaum muda di lingkungan New Orleans yang dikuasai oleh kekerasan geng, ia adalah pahlawan bagi komunitasnya. </item>
+        <item> Seorang residen senior yang tangguh dan cemerlang memandu seorang dokter muda yang idealis melewati hari pertamanya, menarik kembali tirai tentang apa yang sebenarnya terjadi, baik dan buruk, dalam kedokteran modern. </item>
+        <item> Tim pahlawan super muda yang dipimpin oleh Nightwing (dulunya Robin pertama Robin) terbentuk untuk memerangi kejahatan dan bahaya lainnya. </item>
+        <item> Seorang konsultan keamanan mencari pembunuh yang kejam. Sama-sama terobsesi satu sama lain, mereka saling berhadapan dalam permainan epik kucing-dan-tikus. </item>
+        <item> Setelah pendaratan di planet asing, keluarga Robinson berjuang melawan segala rintangan untuk bertahan hidup dan melarikan diri. Tapi mereka dikelilingi oleh bahaya tersembunyi. </item>
+        <item> Berdasarkan kisah-kisah Stephen King, seri ini menghubungkan karakter dan tema dari kota fiksi Castle Rock. </item>
+        <item> Seorang astronot bernama Gary dan sahabat karibnya yang menghancurkan planet Mooncake memulai perjalanan bersambung melalui ruang untuk membuka misteri "Ruang Akhir," titik terakhir di alam semesta, jika itu benar-benar ada. </item>
+        <item> Unit elit kantor FBI New York membawa semua bakat, kecerdasan, dan keahlian teknis mereka pada kasus-kasus besar untuk menjaga agar New York dan negara aman. </item>
+        <item> Jelajahi pengalaman tekanan tinggi dari petugas polisi, paramedis, dan petugas pemadam kebakaran yang didorong ke dalam situasi yang paling menakutkan, mengejutkan, dan mengejutkan. Para responden darurat ini harus berusaha menyeimbangkan menyelamatkan mereka yang paling rentan dengan penyelesaian masalah dalam kehidupan mereka sendiri. </item>
+    </string-array>
+
+    <string-array name="datatv_release">
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+    </string-array>
+
+    <string-array name="datatv_overview">
+        <item>7.5</item>
+        <item>6.8</item>
+        <item>8.3</item>
+        <item>6.6</item>
+        <item>8.0</item>
+        <item>6.5</item>
+        <item>8.4</item>
+        <item>7.5</item>
+        <item>7.7</item>
+        <item>6.6</item>
+    </string-array>
+
+    <array name="datatv_photo">
+        <item>@drawable/tvposter_arrow</item>
+        <item>@drawable/tvposter_doom_patrol</item>
+        <item>@drawable/tvposter_dragon_ball</item>
+        <item>@drawable/tvposter_fairytail</item>
+        <item>@drawable/tvposter_family_guy</item>
+        <item>@drawable/tvposter_flash</item>
+        <item>@drawable/tvposter_god</item>
+        <item>@drawable/tvposter_gotham</item>
+        <item>@drawable/tvposter_grey_anatomy</item>
+        <item>@drawable/tvposter_hanna</item>
+    </array>
+
+</resources>
